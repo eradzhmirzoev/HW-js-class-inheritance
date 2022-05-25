@@ -59,6 +59,3 @@ let clockChildren2 = new ChildrenClock2(document.querySelector('.clock3'));
 // clock.render();
 clockChildren1.render();
 clockChildren2.render();
-
-console.log(clockChildren1)
-console.log(clockChildren2)
